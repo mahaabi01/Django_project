@@ -1,2 +1,2 @@
 Hello. I am learning Django for webdevelopment.
-This is just the test. I have recently made this change.
+This is just the test. 
